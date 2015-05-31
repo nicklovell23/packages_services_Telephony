@@ -104,7 +104,7 @@
 
     </PreferenceScreen>
 
-     <SwitchPreference
+    <SwitchPreference
         android:key="button_auto_retry_key"
         android:title="@string/auto_retry_mode_title"
         android:persistent="false"
